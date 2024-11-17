@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dialied
+- 👀 I’m interested in UE5, JS, C++
+- 💞️ I’m looking to collaborate on UE5 Projects
+- 📫 How to reach me @dialiedin on discord
